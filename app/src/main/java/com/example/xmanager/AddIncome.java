@@ -114,11 +114,11 @@ public class AddIncome extends AppCompatActivity implements AdapterView.OnItemSe
 
 
         if (itemInput.isEmpty()) {
-            warningLabel.setText("Name Cannot Be Empty!");
+            warningLabel.setText(R.string.warningInput);
             warningLabel.setVisibility(View.VISIBLE);
             warningLabel.setTextColor(Color.RED);
         } else if (amountInput.isEmpty()) {
-            warningLabel.setText("Amount Cannot Be Empty!");
+            warningLabel.setText(R.string.warningAmount);
             warningLabel.setVisibility(View.VISIBLE);
             warningLabel.setTextColor(Color.RED);
 
