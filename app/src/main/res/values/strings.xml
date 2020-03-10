@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">xManager</string>
+    <string name="expense">Expense</string>
+    <string name="current_balance">Current Balance</string>
+    <string name="income">Income</string>
+    <string name="latest_transactions">Latest Transactions</string>
+    <string name="add_income">Add Income</string>
+    <string name="item">Item :</string>
+    <string name="category">Category:</string>
+    <string name="amount">Amount :</string>
+    <string name="date">Date :</string>
+    <string name="name">Name</string>
+    <string name="save">Save</string>
+    <string name="select_date">Select Date</string>
+    <string name="warningInput">Name Cannot Be Empty!</string>
+    <string name="warningAmount">Amount Cannot Be Empty!</string>
+
+
+    <string-array name="category_list">
+        <item>Food</item>
+        <item>Education</item>
+        <item>Fuel</item>
+        <item>Pets</item>
+        <item>Personal Care</item>
+        <item>Eating out</item>
+        <item>Groceries</item>
+        <item>Transport</item>
+        <item>Health</item>
+        <item>Bills</item>
+        <item>Entertainment</item>
+
+    </string-array>
+
+</resources>
